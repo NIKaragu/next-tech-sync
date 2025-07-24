@@ -1,3 +1,10 @@
 {
-  "rating": [{ "name": "Next.js livecoding", "rank": 3, "time": "90" }]
+  "rating": [
+    {
+      "id": "ad2d",
+      "name": "Mykyta",
+      "rank": 1,
+      "time": "130"
+    }
+  ]
 }
