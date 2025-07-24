@@ -4,3 +4,8 @@ export type Participant = {
   time: string | number;
   rank: number;
 };
+
+export type RatingPostResponse = {
+  status: string;
+  data: { newPlayer: Participant, allRatings: Participant[] };
+};
